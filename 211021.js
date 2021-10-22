@@ -63,4 +63,5 @@ console.log(`Сумма активных товаров: ${sumActive}`)
 console.log(`Сумма проданных товаров: ${sumSold}`)
 console.log(androids)
 console.log(iphones)
+console.log(123)
 
