@@ -33,3 +33,7 @@
 // arr.fill(value, start, end) – заполняет массив повторяющимися value, начиная с индекса start до end.
 
 // arr.copyWithin(target, start, end) – копирует свои элементы, начиная со start и заканчивая end, в собственную позицию target (перезаписывает существующие).
+
+//git add .
+//git commit -m "initial commit"
+//git push -u origin main
