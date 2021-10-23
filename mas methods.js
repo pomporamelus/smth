@@ -37,4 +37,4 @@
 //git add .
 //git commit -m "initial commit"
 //git push -u origin main
-//  git pull origin  - соединяет какую-то ветку с нынешней
+//  git pull origin 'имя ветки' - соединяет какую-то ветку с нынешней
