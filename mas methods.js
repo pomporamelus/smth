@@ -38,3 +38,13 @@
 //git commit -m "initial commit"
 //git push -u origin main
 //  git pull origin 'имя ветки' - соединяет какую-то ветку с нынешней
+/*git add . //Добавить все файлы  
+git commit -m "commit message" // Записать изменения 
+git push -u origin *branch name* // отправить на удаленный гит 
+git checkout *branch name* // переключиить ветку 
+git pull origin *branch name* // скачать изменения 
+git remote // Работа в удаленным репозиторием 
+git remote add origin // связать локальный с удаленным 
+git remote remove // отвязаться от удаленного 
+git init // проинизиализировать гит репозиторий 
+git branch // посмотреть активную ветку */
