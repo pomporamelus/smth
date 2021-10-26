@@ -48,3 +48,4 @@ git remote add origin // связать локальный с удаленным
 git remote remove // отвязаться от удаленного 
 git init // проинизиализировать гит репозиторий 
 git branch // посмотреть активную ветку */
+//git push origin module1//
