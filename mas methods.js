@@ -34,6 +34,12 @@
 
 // arr.copyWithin(target, start, end) – копирует свои элементы, начиная со start и заканчивая end, в собственную позицию target (перезаписывает существующие).
 
+//cd .. - шаг назад
+//cd *folder* - перейти в папку folder
+//mkdir - создать
+//rmdir - удалить
+
+
 //git add .
 //git commit -m "initial commit"
 //git push -u origin main
@@ -49,3 +55,5 @@ git remote remove // отвязаться от удаленного
 git init // проинизиализировать гит репозиторий 
 git branch // посмотреть активную ветку */
 //git push origin module1//
+//стек - это pop push (last in first out)
+//очередь - shift unshift(first in first out)
