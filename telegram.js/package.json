@@ -1,0 +1,11 @@
+{
+  "name": "teleg-bot",
+  "version": "1.0.0",
+  "description": "бот для удобства",
+  "scripts": {
+    "start": "node telegram1.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.4.2"
+  }
+}
