@@ -39,7 +39,7 @@
 //mkdir - создать
 //rmdir - удалить
 
-
+// Для Git:
 //git add .
 //git commit -m "initial commit"
 //git push -u origin main
@@ -57,3 +57,11 @@ git branch // посмотреть активную ветку */
 //git push origin module1//
 //стек - это pop push (last in first out)
 //очередь - shift unshift(first in first out)
+//call apply bind
+
+
+//const obj2 = JSON.parse(JSON.stringify(obj1)) - копирует объект, не зависит от вложенности. Предпочтительней, чем spread
+// spread - распаковывает
+// rest - упаковывает
+// Array.from - тоже преобразует перебираемый объект (такой как строка) в массив:
+// git remote set-url origin ''
