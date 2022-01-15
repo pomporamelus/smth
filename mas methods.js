@@ -53,7 +53,10 @@ git remote // Работа в удаленным репозиторием
 git remote add origin // связать локальный с удаленным 
 git remote remove // отвязаться от удаленного 
 git init // проинизиализировать гит репозиторий 
-git branch // посмотреть активную ветку */
+git branch // посмотреть активную ветку
+git branch -b //создаёт и переключает на новую ветку
+git -d *branch name* - удалить ветку
+ */
 //git push origin module1//
 //стек - это pop push (last in first out)
 //очередь - shift unshift(first in first out)
@@ -65,3 +68,8 @@ git branch // посмотреть активную ветку */
 // rest - упаковывает
 // Array.from - тоже преобразует перебираемый объект (такой как строка) в массив:
 // git remote set-url origin ''
+//tsc -v - актуальная версия typescript
+//npm i -g typescript - скачать typescript
+//npm i -g @nestjs/cli - скачать nest
+// sudo npm i -g @nestjs/cli - для мака
+//nest -v

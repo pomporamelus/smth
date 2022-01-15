@@ -1,4 +1,4 @@
-const {Telegraf, Markup} = require('telegraf')
+ const {Telegraf, Markup} = require('telegraf')
 
 const BOT_TOKEN = '2081667950:AAE6oT9LcLDkl7Q4xcJpbv2-q4TIZt5Z8oA';
 
