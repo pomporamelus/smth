@@ -68,8 +68,18 @@ git -d *branch name* - удалить ветку
 // rest - упаковывает
 // Array.from - тоже преобразует перебираемый объект (такой как строка) в массив:
 // git remote set-url origin ''
-//tsc -v - актуальная версия typescript
+//tsc -v - узнать версию typescript
 //npm i -g typescript - скачать typescript
 //npm i -g @nestjs/cli - скачать nest
 // sudo npm i -g @nestjs/cli - для мака
-//nest -v
+//nest -v - узнать версию nest 
+//Set-ExecutionPolicy RemoteSigned
+//  Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+// npm - менеджер пакетов
+// npm run start: dev - запустить бэк
+// api - controller (рычаг бэка)
+// старая запись импорта (в несте нет) - const IR = require(./response.interface)
+//@*smth* - декоратор
+// nest g mo *name* - создаёт модуль
+// nest s mo *name* - создаёт сервис
+// nest co mo *name* - создаёт котроллер

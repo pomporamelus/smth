@@ -22,7 +22,7 @@
 // }
 // console.log(sum(1,2,3,4,5))
 
-enum Gender {
+enum Gender  {
     MALE = 'MALE',
     FEMALE = 'FEMALE'
 }
@@ -30,7 +30,7 @@ interface IUser {
     name: string
     age: number
     job: string | string[]
-    gender: Gender
+    gender: string
 }
 
 const user: IUser = {
@@ -42,7 +42,7 @@ const user: IUser = {
 console.log(user)
 
 const user2 = {
-    name: 'Dima',
+     name: 'Dima',
     age: 23,
     job: 'Frontend developer',
     gender: Gender.MALE
@@ -54,7 +54,7 @@ class Users implements IUser {
     readonly name: string,
     readonly age: number,
     readonly job: string,
-    readonly gender : Gender,
+    readonly gender : Gender.MALE ,
     private married : boolean
     ) {
         this.name = name
